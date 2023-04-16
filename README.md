@@ -8,4 +8,4 @@ In this tutorial, you will learn about the various Python modules for processing
 
 ## Installation before the Workshop
 
-It is recommended to install all modules before the workshop. Please follow instructions in the notebook ![PyConDE_00.ipynb](PyConDE_00.ipynb)
+It is recommended to install all modules before the workshop. Please follow instructions in the notebook [PyConDE_00.ipynb](PyConDE_00.ipynb)
