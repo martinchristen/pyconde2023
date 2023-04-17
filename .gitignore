@@ -1,2 +1,5 @@
-
 .ipynb_checkpoints/
+artwork/*.psd
+__pycache__/
+.DS_Store
+geodata/
